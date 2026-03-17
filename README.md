@@ -4,8 +4,8 @@ Adds a **"New File…"** option to the Nautilus (GNOME Files) right-click contex
 
 Type a filename with extension (e.g. `notes.md`, `script.py`, `data.csv`) and an empty file is created instantly.
 
-![Context menu showing "New File…" option](screenshots/context-menu.png)
-![New File dialog](screenshots/dialog.png)
+![Context menu showing "New File…" option](docs/context-menu.png)
+![New File dialog](docs/dialog.png)
 
 ## Features
 
